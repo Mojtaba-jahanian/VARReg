@@ -1,0 +1,16 @@
+# requirements.txt
+
+# Core
+torch>=1.10
+
+# Data & transforms
+torchvision>=0.11
+
+# Visualization
+matplotlib>=3.4
+
+# Optional for notebooks
+jupyterlab>=3.0
+
+# Other helpful packages (optional)
+numpy>=1.21
